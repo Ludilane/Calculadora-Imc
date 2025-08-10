@@ -19,7 +19,7 @@ Este é um projeto simples em **HTML**, **CSS** e **JavaScript** que calcula o *
 meu-projeto-imc/
 │── calculadora.html       # Estrutura do site
 │── calculadora.css        # Estilos 
-│── calculadora.js        # Lógica em JavaScript
+│── calculadora2.js        # Lógica em JavaScript
 └── README.md        # Documentação do projeto
 
 
