@@ -31,7 +31,7 @@ meu-projeto-imc/
 ## 📦 Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/projeto-imc.git
+   git clone https://github.com/Ludilane/Calculadora-Imc.git
 Abra o arquivo index.html no seu navegador.
 
 Digite seu peso e altura e clique em Calcular.
